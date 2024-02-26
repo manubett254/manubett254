@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @manubett254
 - 👀 I’m interested in software and electrical Engineering
-- 🌱 I’m currently learning C proggraming language, HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on Web development and C development
+- 🌱 I’m currently learning Dart proggraming language with Flutter, HTML,CSS and Javascript
+- I have background knowledge in C++ as well.
+- 💞️ I’m looking to collaborate on all kinds of apps development an web development
 - 📫 How to reach me : Email: bettdevs@gmail.com
 
 <!---
